@@ -1,1 +1,19 @@
 print("hello git")
+a
+b
+c
+d
+r
+w
+a
+g
+a
+a
+a
+a
+f
+f
+g
+h
+j
+k
